@@ -1,4 +1,5 @@
 let x = 0
+music.play(music.stringPlayable("C5 C C5 C C5 C C5 C ", 11000), music.PlaybackMode.LoopingInBackground)
 hummingbird.startHummingbird()
 hummingbird.setLED(ThreePort.One, 100)
 while (x == 0) {

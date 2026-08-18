@@ -6,7 +6,7 @@
         "radio": "*",
         "pxt-hummingbird-bit": "github:birdbraintechnologies/pxt-hummingbird-bit#v0.0.7",
         "microphone": "*",
-        "DT": "github:starharbor2491/dt#d0cd13e38c7e54820b3efa83f1e30c49a33df8a0"
+        "DT": "github:starharbor2491/dt#bad9c258ea5c862654b183f0b3d6f16335224344"
     },
     "files": [
         "main.blocks",
